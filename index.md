@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# MND 613: Assignment 5 — 360 Content
 
-You can use the [editor on GitHub](https://github.com/k8talois/MND-613-360-Content-1/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to MY HOUSE
+### Front of House — GE Realty Plot, Schenectady, NY
+<iframe src="https://www.google.com/maps/embed?pb=!4v1644963970525!6m8!1m7!1sCAoSLEFGMVFpcE5OMWxESDlWMTZRODl0VVM3XzBmbVB6ZGFIejRlMlpyX25Kd29u!2m2!1d42.81777781889079!2d-73.91694601625204!3f11.906541!4f0!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Driving Tour of the Electric City — Schenectady, NY (Feb 2021)
+### Views of General Electric, State Street, Bombers Burrito Bar, Jay Street, Rivers Casino, Erie Boulevard, City Hall, Public Library, and more! Footage courtesy of YouTuber jeffrnld9. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tDwp_BqlQ44" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/k8talois/MND-613-360-Content-1/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Did Someone Say Ride? — Schenectady, NY (August 2021)
+### A motorcycle ride through the Electric City, courtesy of YouTuber Michael Turner. From the rider, "Here's a ride through Schenectady, NY on my Buell Blast using the Insta360 OneR. This is a VR video so if you throw on a VR headset you can look around. I'm planning to film a lot more of my motorcycle rides through various towns in NY. Thanks, Michael!
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mXcl5rRIJuk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
